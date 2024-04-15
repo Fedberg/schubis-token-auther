@@ -1,5 +1,4 @@
 
-Sure, here's a description of a token login module that utilizes SSID for GitHub authentication:
 
 GitHub Token Login Module with SSID Authentication
 
